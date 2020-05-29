@@ -1,0 +1,21 @@
+
+var ftGUID_4214909="45210D91539093";
+var ftConfID_4214909="0";
+var ftParams_4214909="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=www.w3schools.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.w3schools.com%2Fjsref%2Ftryit.asp%3Ffilename%3Dtryjsref_text_value2&cachebuster=189386.5935048087";
+var ftKeyword_4214909="";
+var ftCustom_4214909="";
+var ftSection_4214909="";
+var ftSegment_4214909="";
+var ftSegmentList_4214909=[];
+var ftRuleMatch_4214909="0";
+var ftTimestamp_4214909="1590650725";
+var ftImp4214909 = {};
+ftImp4214909.privacy = "x";
+ftImp4214909.guidAge = "10";
+ftImp4214909.impID = "8C51AC79-6A34-958F-A098-40E86557B79D";
+ftImp4214909.duid = "FT:45210D91539093";
+
+ftImp4214909.ft_tpplid = "";
+ftImp4214909.ft_c = {};
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/421/4214909/2812635/js/j-4214909-2812635.js" id="ftscript_m4214909" name="ftscript_m4214909"></scr'+'ipt>');
